@@ -1,2 +1,1 @@
-# Power-Bi-Projects-
-Projects developed in Power Bi
+In this Power BI data analysis project, we explored infant mortality rates across continents by segmenting data in Power Query. We created a world map visualizing infant mortality by country and added bar charts to highlight differences between continents. Additionally, we utilized DAX formulas to calculate metrics and ratios for infant mortality across continents, providing better understanding of patterns and trends in the data.
